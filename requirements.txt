@@ -1,0 +1,5 @@
+torch
+transformers
+duckduckgo-search
+accelerate
+streamlit
